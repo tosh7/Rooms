@@ -13,6 +13,7 @@
 		2B66877122A83B4100218356 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B66877022A83B4100218356 /* Assets.xcassets */; };
 		2B66877422A83B4100218356 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B66877322A83B4100218356 /* Preview Assets.xcassets */; };
 		2B66877722A83B4100218356 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B66877522A83B4100218356 /* LaunchScreen.storyboard */; };
+		2B66877F22A83EAF00218356 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B66877E22A83EAF00218356 /* Room.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2B66877322A83B4100218356 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2B66877622A83B4100218356 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B66877822A83B4100218356 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B66877E22A83EAF00218356 /* Room.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2B66876A22A83B3E00218356 /* AppDelegate.swift */,
 				2B66876C22A83B3E00218356 /* SceneDelegate.swift */,
 				2B66876E22A83B3E00218356 /* ContentView.swift */,
+				2B66877E22A83EAF00218356 /* Room.swift */,
 				2B66877022A83B4100218356 /* Assets.xcassets */,
 				2B66877522A83B4100218356 /* LaunchScreen.storyboard */,
 				2B66877822A83B4100218356 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				2B66876B22A83B3E00218356 /* AppDelegate.swift in Sources */,
 				2B66876D22A83B3E00218356 /* SceneDelegate.swift in Sources */,
+				2B66877F22A83EAF00218356 /* Room.swift in Sources */,
 				2B66876F22A83B3E00218356 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
