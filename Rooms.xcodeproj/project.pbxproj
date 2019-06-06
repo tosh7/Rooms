@@ -14,6 +14,7 @@
 		2B66877422A83B4100218356 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B66877322A83B4100218356 /* Preview Assets.xcassets */; };
 		2B66877722A83B4100218356 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B66877522A83B4100218356 /* LaunchScreen.storyboard */; };
 		2B66877F22A83EAF00218356 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B66877E22A83EAF00218356 /* Room.swift */; };
+		2B66878122A920F400218356 /* Room.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B66878022A920F400218356 /* Room.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2B66877622A83B4100218356 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B66877822A83B4100218356 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B66877E22A83EAF00218356 /* Room.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		2B66878022A920F400218356 /* Room.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Room.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2B66876E22A83B3E00218356 /* ContentView.swift */,
 				2B66877E22A83EAF00218356 /* Room.swift */,
 				2B66877022A83B4100218356 /* Assets.xcassets */,
+				2B66878022A920F400218356 /* Room.xcassets */,
 				2B66877522A83B4100218356 /* LaunchScreen.storyboard */,
 				2B66877822A83B4100218356 /* Info.plist */,
 				2B66877222A83B4100218356 /* Preview Content */,
@@ -138,6 +141,7 @@
 			files = (
 				2B66877722A83B4100218356 /* LaunchScreen.storyboard in Resources */,
 				2B66877422A83B4100218356 /* Preview Assets.xcassets in Resources */,
+				2B66878122A920F400218356 /* Room.xcassets in Resources */,
 				2B66877122A83B4100218356 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
