@@ -14,7 +14,7 @@ struct ContentView : View {
     var body: some View {
         List(rooms) { room in
             Image(room.thumbnailName)
-                .frame(width: 0.01, height: 0.01)
+//                .padding(.all, 1)
             
             VStack(alignment: .leading) {
                 Text(room.name)
